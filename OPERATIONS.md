@@ -2,6 +2,19 @@
 
 [利用案内へ戻る](README.md)
 
+## 管理用のURL
+
+| 用途 | 接続先 |
+|---|---|
+| 団体の選択肢・監査項目の編集 | [Googleフォームの編集画面](https://docs.google.com/forms/d/1NCjwlxD-Qy1NUSGoWYSbgVGfXqaT59pJRgU0CelAoVE/edit) |
+| データ・台帳・履歴の確認、学生監査メニューの操作 | [管理用スプレッドシート](https://docs.google.com/spreadsheets/d/1KUMzU3Rb5vphA48cAl5-SmTtal-dZmHaHZVcXEklhGU/edit) |
+| プログラムの保守・デプロイ | [Apps Scriptプロジェクト](https://script.google.com/home/projects/10iQ8eW9a88Ne8b4emDJlaTgsLQDXoTfFaQzZZ5A31t88cAPK-T-HgCTr/edit) |
+| ソースコードの控え | [非公開GitHubリポジトリ](https://github.com/yunue2007/salesio-audit-system) |
+
+通常の利用者登録や受付期の変更は、[利用案内の本部画面](README.md#利用するurl)から行います。Googleファイルの編集には別途編集権限が必要です。非公開リポジトリは招待されたGitHubアカウントだけが閲覧できます。URLを知っているだけでは編集・閲覧の権限は付きません。
+
+複数のGoogleアカウントを使っている場合は、開いた画面の右上で学校アカウントになっていることを確認してください。
+
 ## 利用者を登録・変更する
 
 所有者・学友会・委員長は本部画面の利用者管理を開きます。

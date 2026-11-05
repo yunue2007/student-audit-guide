@@ -10,6 +10,18 @@
 
 利用者の登録や団体・項目の変更は、[管理担当者向け手順](OPERATIONS.md)を参照してください。
 
+## 利用するURL
+
+| 用途 | 接続先 |
+|---|---|
+| 本部での閲覧・報告書作成・利用者管理 | [本部画面を開く](https://script.google.com/a/macros/s.salesio-sp.ac.jp/s/AKfycby1ju-_ndK87EH8ThyGMGK6e0URlstpyWRPzlqV4L03EIcqZWmepGerkt2jge-IqWYbWg/exec) |
+| 監査結果の入力 | [監査フォームを開く](https://docs.google.com/forms/d/e/1FAIpQLScVd_0X1XlyXl3unSu3ZumlJxRKZi-CUaPV8lSKMM19ulp-kg/viewform) |
+| 作成済み報告書の確認 | [PDF保存先を開く](https://drive.google.com/drive/folders/1EB9opNXQ5oEr41J2wA4JrePBcpkn7Dd0) |
+
+学校のGoogleアカウントで開いてください。本部画面・フォーム・PDFは、それぞれ利用権限がある人だけが使えます。PDF保存先を直接開けない場合は、本部画面で権限と利用期間を確認してください。
+
+フォームやデータの編集先は、[管理担当者向け手順](OPERATIONS.md#管理用のurl)にまとめています。
+
 ## ロールと利用範囲
 
 | ロール | 利用できること |
@@ -67,6 +79,6 @@ PDFはGoogle Driveへ保存します。印刷はA4・縦が基本です。未監
 
 障害時は発生日時・アカウント・画面名・操作・エラー表示を、学校内の案内にある連絡先へ伝えます。パスワードや認証コードは送りません。
 
-スマートフォンでも開けます。横長の一覧は横スクロールになるため、まとめた確認や帳票操作にはPC・タブレットが便利です。この公開案内には学校内の接続先・連絡先・監査データを掲載していません。
+スマートフォンでも開けます。横長の一覧は横スクロールになるため、まとめた確認や帳票操作にはPC・タブレットが便利です。この案内は公開されています。監査記録や利用者一覧は掲載していません。
 
 最終更新：2026年11月6日（日本時間）
